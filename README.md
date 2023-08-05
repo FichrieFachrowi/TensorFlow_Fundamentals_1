@@ -1,9 +1,7 @@
-# TensorFlow_Fundamentals_1
-## A guide to TensorFlow Fundamentals
-
+# A guide to TensorFlow Fundamentals
 #### You can open this notebook in Google Colab, Visual Studio Code, or Pycharm. This notebook is intended for learning the fundamentals of Tensorflow for Machine Learning.
 
-# What we will discover
+## What we will discover
 #### Introduction to tensors (creating tensors)Getting information from tensors (tensor attributes)
 #### Manipulating tensors (tensor operations)
 #### Tensors and NumPy
